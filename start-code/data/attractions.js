@@ -68,5 +68,13 @@ const attractions = [
     link: 'http://www.ghibli-museum.jp/en/',
     image: 'image_9.jpg',
     className: 'w-third-l ml-auto-l'
+  },
+  {
+    title: 'Shinjuku Listening Bar',
+    description:
+      'One of the coolest dj bars big sound systems small talk outside 0 talk inside local ventures, with the best selection of onkyo and katsu prawn rolls there is. This one is not for everyone.',
+    link: 'http://www.ghibli-museum.jp/en/',
+    image: 'image_10.jpg',
+    className: 'w-third-l ml5-l'
   }
 ];
